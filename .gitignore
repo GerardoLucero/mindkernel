@@ -1,0 +1,9 @@
+# Personal logs — do not commit
+log/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keep directory structure
+!log/.gitkeep
