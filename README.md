@@ -2,6 +2,10 @@
 
 Your life, structured. Zero code. Pure protocol.
 
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/gerardolucero)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/lucerorios0)
+[![GitHub Stars](https://img.shields.io/github/stars/GerardoLucero/mindkernel?style=social)](https://github.com/GerardoLucero/mindkernel)
+
 Mindkernel turns Claude Code into a personal Chief of Staff. You fill in one file with your context. Claude routes every question to the right expert, enforces your priorities, and always delivers a concrete recommendation — never just analysis.
 
 No app. No API. No deployment. Open the directory in Claude Code and start.
