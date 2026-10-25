@@ -2,9 +2,7 @@
 
 Your life, structured. Zero code. Pure protocol.
 
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/gerardolucero)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/lucerorios0)
-[![GitHub Stars](https://img.shields.io/github/stars/GerardoLucero/mindkernel?style=social)](https://github.com/GerardoLucero/mindkernel)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Mindkernel turns Claude Code into a personal Chief of Staff. You fill in one file with your context. Claude routes every question to the right expert, enforces your priorities, and always delivers a concrete recommendation — never just analysis.
 
@@ -173,6 +171,13 @@ Everything runs locally inside Claude Code. Your `kernel/state.md` and `areas/*/
 
 ---
 
+## Support
+
+Open source, maintained in my spare time. If it was useful and you want to say thanks:
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/gerardolucero)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/lucerorios0)
+
 ## License
 
-MIT
+MIT, see [LICENSE](LICENSE).
